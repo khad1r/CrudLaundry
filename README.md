@@ -1,0 +1,6 @@
+# CrudLaundry
+
+Login
+```
+admin:admin
+```
